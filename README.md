@@ -1,1 +1,1 @@
-# E-Commerce-_End-to-End_Data__Analytics_Platform
+# E-Commerce_End-to-End_Data_Analytics_Platform
