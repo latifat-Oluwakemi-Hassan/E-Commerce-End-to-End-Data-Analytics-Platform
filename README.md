@@ -74,6 +74,7 @@ Integrate all datasets into a unified structure.
 2. Database Creation
 
 Design and populate a relational database (.db file) to efficiently store and manage the data.
+[Download .db file](https://drive.google.com/file/d/1BlVZUbcUUVuYTZXYHfy0kBaN8Y83VGN8/view?usp=drive_link)
 
 3. Exploratory Data Analysis (EDA)
 
